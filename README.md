@@ -1,4 +1,3 @@
-# Simulación de una eventual subida del nivel del mar (10 m). San Juan - Puerto Rico
 # GeoWay - Simulación de Subida del Nivel del Mar en San Juan, Puerto Rico
 
 ![San Juan, Puerto Rico](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ciudad_de_San_Juan_desde_el_Faro_de_la_Cab%C3%B1a_2.JPG/1280px-Ciudad_de_San_Juan_desde_el_Faro_de_la_Cab%C3%B1a_2.JPG)
